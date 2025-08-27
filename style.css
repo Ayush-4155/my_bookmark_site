@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, #656662, #ada3f5);
+    color: yellow;
+    
+}
+button {
+      padding: 10px 20px;
+      font-size: 1.2em;
+      background-color: #ff4081;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+button:hover {
+      background-color: #e91e63;
+    }
+.google-button {
+  background-color: #4285F4; /* Google Blue */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.AD-button {
+  background-color: #3f1183; /* Google Blue */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.PSIT-button {
+  background-color: #650f0f; /* Google Blue */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.YT-button {
+  background-color: red; /* Google Blue */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.google-button i {
+  margin-right: 8px;
+  font-size: 20px;
+}
